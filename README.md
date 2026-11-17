@@ -1,5 +1,3 @@
-<!-- Reemplaza TU_USUARIO por tu usuario de GitHub en las secciones de stats -->
-
 <!-- ===== HEADER ANIMADO (ola) ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=Hi,%20I'm%20Mia!%20%F0%9F%91%8B&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header"/>
 
@@ -59,11 +57,15 @@ I like turning messy data into models and tools that help people make better dec
 
 ---
 
+## 🤝 Let's Connect
+
+<div align="center">
+
+<!-- Reemplaza los enlaces por los tuyos -->
+<a href="https://www.linkedin.com/in/mia-alexie-wood-547207325/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/mialexiewood"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
 </div>
 
-🤝 Let's Connect
-<div align="center"> <!-- Reemplaza los enlaces por los tuyos -->
-
-<a href="https://www.linkedin.com/in/mia-alexie-wood-547207325/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/TU_USUARIO"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-</div> <!-- ===== FOOTER ANIMADO (ola) ===== --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=100&section=footer" alt="footer"/>
+<!-- ===== FOOTER ANIMADO (ola) ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=100&section=footer" alt="footer"/>
