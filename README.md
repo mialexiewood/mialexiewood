@@ -61,7 +61,6 @@ I like turning messy data into models and tools that help people make better dec
 
 </div>
 
----
 
 ## 🤝 Let's Connect
 
