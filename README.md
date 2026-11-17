@@ -66,11 +66,8 @@ I like turning messy data into models and tools that help people make better dec
 
 <div align="center">
 
-<!-- Reemplaza los enlaces por los tuyos -->
-<a href="[https://www.linkedin.com/in/Mia Alexie Wood](https://www.linkedin.com/in/mia-alexie-wood-547207325/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/TU_USUARIO"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<div align="center"> <!-- Reemplaza los enlaces por los tuyos -->
 
-</div>
+<a href="https://www.linkedin.com/in/mia-alexie-wood-547207325/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/TU_USUARIO"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<!-- ===== FOOTER ANIMADO (ola) ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=100&section=footer" alt="footer"/>
+</div> <!-- ===== FOOTER ANIMADO (ola) ===== --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=100&section=footer" alt="footer"/>
